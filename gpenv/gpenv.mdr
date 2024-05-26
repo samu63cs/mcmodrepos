@@ -1,11 +1,8 @@
 title=Giant Pretty Environment (Añade optimizaciones, shaders y carga de chunks con LOD)
 author=samu63cs/Grctsamu
-version=1.20.2 Fabric
+version=1.20.2 Forge
 resources:
-Mod Fabric-Api https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/fabric-api-0.91.6+1.20.2.jar
-Mod Sodium https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/sodium-fabric-0.5.8+mc1.20.4.jar
-Mod Indium https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/indium-1.0.30+mc1.20.4.jar
-Mod Iris https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/iris-1.7.0+mc1.20.4.jar
+Mod OptiFine https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/preview_OptiFine_1.20.2_HD_U_I7_pre1.jar
 Mod DistantHorizons https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/DistantHorizons-2.0.1-a-1.20.2.jar
 Shader MakeUp https://github.com/samu63cs/mcmodrepos/raw/main/gpenv/MakeUp-UltraFast-8.9a.zip
 >
